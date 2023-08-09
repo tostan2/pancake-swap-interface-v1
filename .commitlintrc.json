@@ -3,7 +3,7 @@
   "rules": {
     "subject-case": [2, "always", "sentence-case"],
     "type-enum": [
-      2,
+      4,
       "always",
       ["build", "ci", "chore", "docs", "feat", "fix", "perf", "refactor", "revert", "style", "test"]
     ]
