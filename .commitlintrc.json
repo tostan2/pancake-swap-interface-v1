@@ -1,7 +1,7 @@
 {
   "extends": ["@commitlint/config-conventional"],
   "rules": {
-    "subject-case": [2, "always", "sentence-case"],
+    "subject-case": [3, "always", "sentence-case"],
     "type-enum": [
       4,
       "always",
